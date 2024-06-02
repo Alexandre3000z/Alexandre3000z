@@ -1,34 +1,13 @@
-🌎 ENGLISH VERSION
+### Olá eu sou o Alexandre 🖖​👨‍💻​
 
-👋 Hello, I am Alexandre
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-alexandre-0b5120189)
 
-</> I am new here, starting in the field in 2024. Currently, I am working on Python projects, helping to automate processes at my company.
+![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre3000z&show_icons=true&theme=great-gatsby)
 
-👨‍💻 I work at HowBe Tecnologia, where we offer various solutions. I discovered my passion for programming while developing automation projects for the company.
+### Tecnologias que utilizo
 
-🐱‍👤 I am learning Python and aspire to master everything about it one day. My goal is to become a full-stack developer who can solve any problem.
-
-📄 I am eager to join a company that works directly with programming. This is my next career step.
-
-📫 Email: Joaoalexandrems3000@gmail.com
-Contact: +55 85 98626-4367 / +55 85 98680-3414
-
-🌎 VERSÃO PORTUGUÊS
-
-👋 Olá, eu sou o Alexandre
-
-</> Sou novo por aqui, começando na área agora em 2024. No momento, estou fazendo projetos em Python, auxiliando na automação da empresa em que trabalho.
-
-👨‍💻 Trabalho na HowBe Tecnologia, onde oferecemos várias soluções. Me encontrei na programação quando desenvolvi projetos de automação para a empresa.
-
-🐱‍👤 Estou aprendendo Python e quero muito dominar tudo sobre a linguagem um dia. Meu objetivo é ser um desenvolvedor full stack que resolve qualquer problema.
-
-📄 Gostaria muito de entrar em uma empresa que trabalha diretamente com programação. Esse é meu próximo passo na carreira.
-
-📫 Email: Joaoalexandrems3000@gmail.com
-Contato: +55 85 98626-4367 / +55 85 98680-3414
-
-<!---
-Alexandre3000z/Alexandre3000z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
