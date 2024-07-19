@@ -1,5 +1,5 @@
-### Olá eu sou o Alexandre 🖖​👨‍💻​
-
+## Olá eu sou o Alexandre 🖖​👨‍💻​
+### FullStack
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-alexandre-0b5120189)
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre3000z&show_icons=true&theme=vision-friendly-dark)
