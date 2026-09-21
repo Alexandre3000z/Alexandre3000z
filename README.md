@@ -2,7 +2,7 @@
 ## Olá eu sou o Alexandre 🖖​👨‍💻​ Um desenvolvedor FullStack
 
 
-![Alexandre GitHub stats](https://github-readme-stats-alexandre3000z.vercel.app/api?username=Alexandre3000z&show_icons=true&theme=vision-friendly-dark)
+![Alexandre GitHub stats](https://github-readme-stats-eosin-ten-10.vercel.app/api?username=Alexandre3000z&show_icons=true&theme=vision-friendly-dark)
 
 ### Tecnologias que utilizo
 
